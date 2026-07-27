@@ -46,11 +46,11 @@
     "knowledge-graph",
     "sdk"
   ],
-  "author": "Voidspace",
+  "author": "Kanishka Naik",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/voidspace/zep-sdk.git"
+    "url": "git+https://github.com/iamkanishka/zep-sdk.git"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
